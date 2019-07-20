@@ -1,4 +1,4 @@
-# Attendance-tracker
+# Attendance Tracker
 A web application that allows faculties to track attendance easily.
 
 ## Features
